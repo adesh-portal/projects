@@ -1,3 +1,12 @@
+Project Title :
+This project is free to use for anyone. You are welcome to use, modify, and distribute this project with your own content. The goal is to help others by sharing this resource openly.
+
+License :
+This project is released under an open license (MIT/Apache 2.0/GPL — choose one) to ensure maximum freedom for anyone to reuse or modify it. this is open source
+
+Contributions
+Contributions, improvements, and new features are always welcome! Feel free to fork the repository, create pull requests, or report issues.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
